@@ -9,7 +9,7 @@ def swapping(x,y):
         
         a,b = y,x
         return a,b
+    
     except Exception as e:
         print(str(e))
-        
         
